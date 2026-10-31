@@ -1,0 +1,15 @@
+# .DS_Store
+# __pycache__/
+# *.py[cod]
+# /data/
+# /checkpoints/
+# /visualizations/
+
+.venv/
+__pycache__/
+checkpoints_smoke/
+data/
+outputs/
+outputs_smoke/
+visualizations_smoke/
+仓库解读.md
